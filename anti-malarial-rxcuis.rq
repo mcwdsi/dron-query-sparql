@@ -1,0 +1,23 @@
+﻿prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
+
+prefix dron: <http://purl.obolibrary.org/obo/DRON_>
+prefix bfo: <http://purl.obolibrary.org/obo/BFO_>
+
+#'drug product' and ('is bearer of' some anti-malarial)
+
+select ?label ?iri ?rxcui
+
+where {
+		?iri rdfs:subClassOf+ bfo:0000040 . 				#iri(drug product) is subclass of material entity
+  		?iri rdfs:label ?label . 							#iri(drug product) has label ?label
+  		?iri dron:00010000 ?rxcui .							#iri(drug product) hasRxCui ?rxcui
+  		?iri rdfs:subClassOf+ ?bearerOfAxiom .
+  		?bearerOfAxiom rdf:type owl:Restriction .
+  		?bearerOfAxiom owl:onProperty bfo:0000053 .			#iri(drug product) have the "bearer-of" distinction
+  		?bearerOfAxiom owl:someValuesFrom dron:00000033 .
+               }
+
+ORDER BY (?label)
