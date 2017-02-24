@@ -1,0 +1,53 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1504\cocoasubrtf810
+{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww16640\viewh13860\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 select  (?b as ?IRI) (?a as ?DrugName)  (?c as ?RxCui)\
+where \{\
+  ?a rdfs:label ?b . \
+  ?a <http://purl.obolibrary.org/obo/DRON_00010000> ?c . \
+  ?a rdfs:subClassOf ?k .\
+  ?k rdfs:subClassOf ?y .\
+  ?k <http://purl.obolibrary.org/obo/DRON_00010000> ?e .\
+  ?k rdfs:label ?j .\
+  #?y ?w ?z .\
+  ?y rdf:type owl:Restriction .\
+  ?y owl:onProperty <http://www.obofoundry.org/ro/ro.owl#has_proper_part> .\
+  ?y owl:someValuesFrom ?x .\
+  #?x ?t ?u .\
+  ?x rdf:type owl:Class .\
+  ?x owl:intersectionOf ?s .\
+  # scattered molecular aggregate\
+  ?s rdf:first <http://purl.obolibrary.org/obo/OBI_0000576> .\
+  ?s rdf:rest ?q .\
+  ?q rdf:first ?p .\
+  # and is bearer of active ingredient role\
+  ?p rdf:type owl:Restriction .\
+  ?p owl:onProperty <http://purl.obolibrary.org/obo/BFO_0000053> .\
+  ?p owl:someValuesFrom <http://purl.obolibrary.org/obo/DRON_00000028> .\
+  ?q rdf:rest ?o .\
+  ?o rdf:first ?n .\
+  ?n rdf:type owl:Restriction .\
+  # and has granular part some thing\
+  ?n owl:onProperty <http://purl.obolibrary.org/obo/BFO_0000071> .\
+  ?n owl:someValuesFrom ?m .\
+  #?m rdfs:label 'furosemide'^^xsd:string .\
+  ?m rdfs:subClassOf ?g .\
+  ?g rdf:type owl:Restriction .\
+  ?g owl:onProperty ?h .\
+  ?g owl:someValuesFrom ?i . \
+  ?i rdfs:label 'non-activating competitive beta-adrenergic receptor binding disposition'^^xsd:string\
+  \
+  \
+     #?m ?l ?k\
+  #\
+  #?s rdf:rest ?r .\
+  #?r rdf:first ?q .\
+  #?r rdf:rest ?p .\
+  #?q ?o ?n .\
+  #?p ?m ?l .\
+  #?l ?k ?j\
+     \}}
