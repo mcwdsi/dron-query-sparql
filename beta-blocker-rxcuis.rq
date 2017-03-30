@@ -1,3 +1,5 @@
+#has correct dose forms but does not include overall drug products yet
+
 select  (?b as ?IRI) (?a as ?DrugName)  (?c as ?RxCui)
 where {
   ?a rdfs:label ?b . 
