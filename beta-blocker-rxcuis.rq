@@ -1,10 +1,20 @@
-#has correct dose forms but does not include overall drug products yet
+﻿prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+prefix owl: <http://www.w3.org/2002/07/owl#>
+prefix xsd: <http://www.w3.org/2001/XMLSchema#>
+prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 
-select  (?b as ?IRI) (?a as ?DrugName)  (?c as ?RxCui)
-where {
+#Very close to matching output file, only with 621 entries instead of the target 612. This is likely due to absence of anti-hypertensive function
+select distinct (?b as ?DrugName) (?a as ?IRI) (?c as ?RxCui)
+where { 
+  {?k rdfs:label ?aa}
+  UNION
+  {?a rdfs:label ?aa}
+  FILTER (!regex(?aa, "Ophthalmic","i")) . 
+  FILTER (!regex(?aa, "Suspension","i")) .
+  FILTER (!regex(?aa, "Cartridge","i")) .
   ?a rdfs:label ?b . 
   ?a <http://purl.obolibrary.org/obo/DRON_00010000> ?c . 
-  ?a rdfs:subClassOf+ ?k .
+  ?a rdfs:subClassOf* ?k .
   ?k rdfs:subClassOf ?y .
   ?k <http://purl.obolibrary.org/obo/DRON_00010000> ?e .
   ?k rdfs:label ?j .
@@ -35,14 +45,5 @@ where {
   ?g owl:onProperty ?h .
   ?g owl:someValuesFrom ?i . 
   ?i rdfs:label 'non-activating competitive beta-adrenergic receptor binding disposition'^^xsd:string
-  
-  
-     #?m ?l ?k
-  #
-  #?s rdf:rest ?r .
-  #?r rdf:first ?q .
-  #?r rdf:rest ?p .
-  #?q ?o ?n .
-  #?p ?m ?l .
-  #?l ?k ?j
-     }
+  }
+
