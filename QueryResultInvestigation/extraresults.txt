@@ -1,0 +1,19 @@
+255a256
+> Hydrochlorothiazide / Propranolol Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00731434	373650	
+336a338
+> Metoprolol / Nifedipine Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00724228	446677	
+345a348
+> Metoprolol Injection	http://purl.obolibrary.org/obo/DRON_00731531	1740909	
+423a427
+> Pindolol Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00724230	450803	
+438a443
+> Propranolol Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00731039	375929	
+551a557
+> Sotalol Oral Solution	http://purl.obolibrary.org/obo/DRON_00731520	1593724	
+595a602,605
+> ceftibuten 200 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00041100	249802	
+> ceftibuten 400 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00044365	309086	
+> ceftibuten 400 MG Oral Capsule [Cedax]	http://purl.obolibrary.org/obo/DRON_00070237	108395	
+> ceftibuten Oral Capsule	http://purl.obolibrary.org/obo/DRON_00021190	371338	
+610d619
+< null	http://www.w3.org/2002/07/owl#Nothing	null
