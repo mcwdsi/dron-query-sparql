@@ -1,0 +1,19 @@
+prefix dron: <http://purl.obolibrary.org/obo/DRON_>
+prefix bfo: <http://purl.obolibrary.org/obo/BFO_>
+
+#'drug product' and (has_proper_part some ('has granular part' some ('is bearer of' some 'Hydrochlorothiazide like' ))) 
+
+select ?label ?iri ?rxcui 
+
+
+where {
+                        ?iri rdfs:subClassOf+ bfo:0000040 .
+                        ?iri rdfs:label ?label .                                                                                    
+                        ?iri dron:00010000 ?rxcui .                                                                        
+                        ?iri rdfs:subClassOf+ ?bearerOfAxiom .
+                        ?bearerOfAxiom rdf:type owl:Restriction .
+                        ?bearerOfAxiom owl:onProperty bfo:0000053 .                          
+                        ?bearerOfAxiom owl:someValuesFrom dron:00000059 .
+               }
+ 
+ORDER BY (?label)
