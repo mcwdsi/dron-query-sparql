@@ -1,0 +1,690 @@
+Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00048029	403853
+Bendroflumethiazide 2.5 MG / Potassium 8.4 MMOL Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00724381	104267
+Indapamide 2.5 MG Oral Tablet [Lozol]	http://purl.obolibrary.org/obo/DRON_00072372	206946
+Hydrochlorothiazide 12.5 MG / Lisinopril 20 MG Oral Tablet [Prinize]	http://purl.obolibrary.org/obo/DRON_00076610	541946
+Polythiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023080	373514
+Indapamide 1.25 MG Oral Tablet [Lozol]	http://purl.obolibrary.org/obo/DRON_00072371	206945
+aliskiren / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00031833	754717
+Atenolol / Bendroflumethiazide Oral Capsule	http://purl.obolibrary.org/obo/DRON_00027689	385565
+Dihydralazine / Hydrochlorothiazide / Reserpine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00028657	439015
+Hydrochlorothiazide 25 MG / Triamterene 50 MG / Verapamil 160 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052417	432769
+Hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00054959	636045
+Hydrochlorothiazide 12.5 MG / valsartan 320 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00054958	636042
+Hydrochlorothiazide / Potassium Chloride Oral Tablet	http://purl.obolibrary.org/obo/DRON_00025143	376241
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00061492	966574
+Trichlormethiazide 2 MG Oral Tablet [Naqua]	http://purl.obolibrary.org/obo/DRON_00073117	208708
+Trichlormethiazide 4 MG Oral Tablet [Diurese]	http://purl.obolibrary.org/obo/DRON_00073118	208709
+Trichlormethiazide 4 MG Oral Tablet [Metahydrin]	http://purl.obolibrary.org/obo/DRON_00073119	208710
+Atenolol 50 MG / Chlorthalidone 12.5 MG Oral Tablet [AtenixCo]	http://purl.obolibrary.org/obo/DRON_00071298	201341
+Atenolol 100 MG / Chlorthalidone 25 MG Oral Tablet [AtenixCo]	http://purl.obolibrary.org/obo/DRON_00071299	201342
+Trichlormethiazide 2 MG Oral Tablet [Metahydrin]	http://purl.obolibrary.org/obo/DRON_00073116	208707
+Hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00047281	349353
+Guanethidine 10 MG / Hydrochlorothiazide 25 MG Oral Tablet [Esimil]	http://purl.obolibrary.org/obo/DRON_00072140	206403
+24 HR Hydrochlorothiazide 12.5 MG / Metoprolol 100 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00052788	433891
+Hydralazine Hydrochloride 100 MG / Hydrochlorothiazide 50 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00061376	905203
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 25 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00061379	905211
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00061494	966594
+Hydralazine Hydrochloride 50 MG / Hydrochlorothiazide 50 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00061380	905217
+Hydrochlorothiazide 12.5 MG / Lisinopril 5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00062591	1001394
+aliskiren 300 MG / Amlodipine 5 MG / Hydrochlorothiazide 25 MG Oral Tablet [Amturnide]	http://purl.obolibrary.org/obo/DRON_00085351	1050814
+aliskiren 300 MG / Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Amturnide]	http://purl.obolibrary.org/obo/DRON_00085350	1050811
+Polythiazide 4 MG Oral Tablet [Renese]	http://purl.obolibrary.org/obo/DRON_00073124	208719
+Bendroflumethiazide 2.5 MG / Potassium Chloride 500 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00038444	242961
+Hydrochlorothiazide 25 MG / Labetalol hydrochloride 300 MG Oral Tablet [Trandide]	http://purl.obolibrary.org/obo/DRON_00076633	542127
+Trichlormethiazide 4 MG Oral Tablet [Naqua]	http://purl.obolibrary.org/obo/DRON_00073120	208711
+Polythiazide 1 MG Oral Tablet [Renese]	http://purl.obolibrary.org/obo/DRON_00073122	208716
+Hydralazine 100 MG / Hydrochlorothiazide 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00038440	242957
+Polythiazide 2 MG Oral Tablet [Renese]	http://purl.obolibrary.org/obo/DRON_00073123	208717
+Bendroflumethiazide 5 MG / Propranolol Hydrochloride 160 MG Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00733198	856616
+candesartan / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00024271	374934
+Hydrochlorothiazide 25 MG / Propranolol Hydrochloride 40 MG Oral Tablet [Inderide 40/25]	http://purl.obolibrary.org/obo/DRON_00080901	856426
+Polythiazide / Prazosin Oral Tablet	http://purl.obolibrary.org/obo/DRON_00029723	451073
+Hydralazine / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022095	372406
+Bendroflumethiazide 2.5 MG / Potassium 7.7 MMOL Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00724378	104264
+Enalapril Maleate 5 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00059079	858824
+Polythiazide 2 MG / Reserpine 0.25 MG Oral Tablet [Renese-R]	http://purl.obolibrary.org/obo/DRON_00073137	208825
+aliskiren 300 MG / Amlodipine 10 MG / Hydrochlorothiazide 25 MG Oral Tablet [Amturnide]	http://purl.obolibrary.org/obo/DRON_00085349	1050808
+Indapamide / Perindopril Oral Tablet	http://purl.obolibrary.org/obo/DRON_00027795	393357
+Bendroflumethiazide / Potassium Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00027676	385502
+Hydrochlorothiazide 12.5 MG / quinapril 10 MG Oral Tablet [Quinaretic 10/12.5]	http://purl.obolibrary.org/obo/DRON_00083166	991549
+Hydrochlorothiazide 15 MG / Methyldopa 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00053417	485001
+Chlorthalidone 10 MG / Hydralazine 25 MG / Oxprenolol 80 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052449	432815
+Hydrochlorothiazide / Propranolol Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00023196	373650
+aliskiren 300 MG / Amlodipine 10 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Amturnide]	http://purl.obolibrary.org/obo/DRON_00085348	1050805
+aliskiren 150 MG / Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Amturnide]	http://purl.obolibrary.org/obo/DRON_00085347	1050802
+Hydrochlorothiazide / Propranolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023197	373651
+Hydrochlorothiazide 25 MG / quinapril 20 MG Oral Tablet [Quinaretic 20/25]	http://purl.obolibrary.org/obo/DRON_00083168	991557
+Hydrochlorothiazide 12.5 MG / quinapril 20 MG Oral Tablet [Quinaretic 20/12.5]	http://purl.obolibrary.org/obo/DRON_00083167	991553
+Bendroflumethiazide 2.5 MG / Potassium Chloride 630 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00041432	250528
+Indapamide 1.5 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00041433	250529
+Chlorthalidone 50 MG Oral Tablet [Hygroton]	http://purl.obolibrary.org/obo/DRON_00071249	201262
+quinethazone 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045911	312752
+Metolazone 2.5 MG / Triamterene 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051117	427727
+Bendroflumethiazide 5 MG / Nadolol 60 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051356	428757
+Amiloride 2.5 MG / Hydrochlorothiazide 25 MG / Methyldopa 250 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051112	427704
+Atenolol / Chlorthalidone Oral Capsule	http://purl.obolibrary.org/obo/DRON_00020859	370958
+Atenolol 100 MG / Chlorthalidone 25 MG Oral Tablet [Totaretic]	http://purl.obolibrary.org/obo/DRON_00070276	108744
+Bendroflumethiazide 5 MG / Potassium Chloride 500 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00039112	245285
+Atenolol 50 MG / Chlorthalidone 12.5 MG Oral Tablet [Totaretic]	http://purl.obolibrary.org/obo/DRON_00070275	108743
+Captopril 50 MG / Hydrochlorothiazide 15 MG Oral Tablet [Capozide 50/15]	http://purl.obolibrary.org/obo/DRON_00079086	790297
+Captopril 50 MG / Hydrochlorothiazide 25 MG Oral Tablet [Capozide 50/25]	http://purl.obolibrary.org/obo/DRON_00079085	790296
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.1 MG Oral Tablet [Combipres 0.1/15]	http://purl.obolibrary.org/obo/DRON_00082021	884211
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.2 MG Oral Tablet [Combipres 0.2/15]	http://purl.obolibrary.org/obo/DRON_00082022	884215
+Chlorthalidone 25 MG / Metoprolol 200 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00731953	431608
+aliskiren 150 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00062894	1011713
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.3 MG Oral Tablet [Clorpres 0.3/15]	http://purl.obolibrary.org/obo/DRON_00082020	884207
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.3 MG Oral Tablet [Combipres 0.3/15]	http://purl.obolibrary.org/obo/DRON_00082025	884231
+aliskiren 150 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00062893	1011710
+Hydrochlorothiazide / Ramipril Oral Tablet	http://purl.obolibrary.org/obo/DRON_00025185	376291
+Indapamide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020622	370682
+Trichlormethiazide 4 MG Oral Tablet [Aquacot]	http://purl.obolibrary.org/obo/DRON_00075857	351505
+Methyclothiazide 2.5 MG / Reserpine 0.1 MG Oral Tablet [Diutensen-R]	http://purl.obolibrary.org/obo/DRON_00072469	207094
+Methyclothiazide 2.5 MG Oral Tablet [Enduron]	http://purl.obolibrary.org/obo/DRON_00072465	207089
+Chlorothiazide 150 MG / Methyldopa 250 MG Oral Tablet [Aldoclor-150]	http://purl.obolibrary.org/obo/DRON_00074884	213488
+Methyclothiazide 5 MG Oral Tablet [Aquatensen]	http://purl.obolibrary.org/obo/DRON_00072466	207090
+Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00037289	200285
+Hydrochlorothiazide 20 MG / Reserpine 0.125 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051466	429155
+Hydrochlorothiazide 10 MG / Reserpine 0.25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051465	429154
+Hydrochlorothiazide 10 MG / Reserpine 0.15 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051464	429153
+Hydrochlorothiazide 50 MG / Pindolol 10 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00039466	245855
+Chlorthalidone 100 MG Oral Tablet [Hygroton]	http://purl.obolibrary.org/obo/DRON_00071250	201263
+Metolazone 5 MG Oral Tablet [Metenix]	http://purl.obolibrary.org/obo/DRON_00071251	201269
+Hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00037288	200284
+Hydrochlorothiazide 12.5 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00037046	199903
+Hydrochlorothiazide 25 MG / Pindolol 10 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00039465	245854
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.1 MG Oral Tablet [Clorpres 0.1/15]	http://purl.obolibrary.org/obo/DRON_00082018	884196
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.2 MG Oral Tablet [Clorpres 0.2/15]	http://purl.obolibrary.org/obo/DRON_00082019	884202
+Hydrochlorothiazide 50 MG / Reserpine 0.2 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00039109	245282
+Amiloride / Hydrochlorothiazide / Methyldopa Oral Tablet	http://purl.obolibrary.org/obo/DRON_00029316	446454
+Acebutolol Hydrochloride 200 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00062426	998694
+Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet [Cozaar-Comp]	http://purl.obolibrary.org/obo/DRON_00083100	979497
+Hydrochlorothiazide 25 MG / Labetalol hydrochloride 200 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00060486	896975
+Hydrochlorothiazide 25 MG / Labetalol hydrochloride 100 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00060485	896974
+Hydrochlorothiazide 25 MG / Labetalol hydrochloride 300 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00060487	896976
+Hydrochlorothiazide 50 MG Oral Tablet [Hydrokraft]	http://purl.obolibrary.org/obo/DRON_00076716	542854
+Hydrochlorothiazide 50 MG Oral Tablet [Hydrocot]	http://purl.obolibrary.org/obo/DRON_00076715	542850
+Chlorothiazide 250 MG / Reserpine 0.125 MG Oral Tablet [Diupres-250]	http://purl.obolibrary.org/obo/DRON_00074896	213504
+Bendroflumethiazide 2.5 MG / Potassium Chloride 6.7 MEQ Delayed Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00725130	308615
+Bendroflumethiazide 5 MG / Potassium Chloride 6.7 MEQ Delayed Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00725132	308618
+Chlorothiazide 500 MG / Reserpine 0.125 MG Oral Tablet [Diupres-500]	http://purl.obolibrary.org/obo/DRON_00074897	213505
+Bendroflumethiazide 5 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00725131	308617
+Hydrochlorothiazide 12.5 MG / Metoprolol 100 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00039698	246267
+Amlodipine 10 MG / Hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058179	848135
+Amlodipine 10 MG / Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058178	848131
+Chlorothiazide 250 MG / Methyldopa 250 MG Oral Tablet [Aldoclor-250]	http://purl.obolibrary.org/obo/DRON_00074890	213498
+Bendroflumethiazide 5 MG Oral Tablet [Naturetin]	http://purl.obolibrary.org/obo/DRON_00083138	991221
+24 HR Hydrochlorothiazide 25 MG / Metoprolol Tartrate 200 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00064859	1111439
+Clonidine / Hydrochlorothiazide / Triamterene Oral Tablet	http://purl.obolibrary.org/obo/DRON_00028556	438743
+24 HR Indapamide 1.5 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00052754	433844
+Chlorthalidone / Clonidine Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00028557	438745
+Clonidine / cyclothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00028558	438747
+Bendroflumethiazide 10 MG Oral Tablet [Naturetin]	http://purl.obolibrary.org/obo/DRON_00083135	991211
+Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058180	848140
+Hydrochlorothiazide 25 MG / Magnesium Chloride 500 MG / Methotrimeprazine 1 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051209	428333
+Amlodipine 10 MG / Hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058182	848151
+cyclothiazide 3 MG / Triamterene 150 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051205	428292
+Amlodipine 5 MG / Hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058181	848145
+Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 40 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00048030	403854
+Amiloride / Furosemide / Indapamide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00028201	437571
+Hydralazine / Hydrochlorothiazide / Reserpine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00024081	374694
+24 HR Chlorthalidone 25 MG / Metoprolol 200 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00052762	433855
+Amiloride / Bendroflumethiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00028202	437575
+Hydrochlorothiazide 25 MG / Olmesartan medoxomil 40 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00048031	403855
+Amiloride / Metolazone Oral Tablet	http://purl.obolibrary.org/obo/DRON_00028203	437576
+Amiloride / Trichlormethiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00028204	437578
+Amiloride 2 MG / Trichlormethiazide 2 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052407	432742
+Bendroflumethiazide / Reserpine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00029771	451201
+Fosinopril / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00021988	372273
+Bendroflumethiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020899	371004
+Bendroflumethiazide / Rauwolfia preparation Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020898	371003
+benazepril / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020895	371000
+deserpidine / Methyclothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00021500	371706
+Hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet [Diovan HCT 320/25]	http://purl.obolibrary.org/obo/DRON_00079606	809030
+Hydrochlorothiazide 12.5 MG / valsartan 320 MG Oral Tablet [Diovan HCT 320/12.5]	http://purl.obolibrary.org/obo/DRON_00079605	809026
+Hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Diovan HCT 160/25]	http://purl.obolibrary.org/obo/DRON_00079604	809022
+Chlorthalidone 25 MG / Reserpine 0.125 MG Oral Tablet [Demi-Regroton]	http://purl.obolibrary.org/obo/DRON_00075129	214094
+Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Diovan HCT 160/12.5]	http://purl.obolibrary.org/obo/DRON_00079603	809018
+Hydrochlorothiazide 12.5 MG / valsartan 80 MG Oral Tablet [Diovan HCT 80/12.5]	http://purl.obolibrary.org/obo/DRON_00079602	809014
+Chlorthalidone 25 MG Oral Tablet [Hygroton]	http://purl.obolibrary.org/obo/DRON_00075123	214082
+Hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00053460	485471
+Chlorthalidone 15 MG Oral Tablet [Thalitone]	http://purl.obolibrary.org/obo/DRON_00075122	214081
+Chlorthalidone 25 MG Oral Tablet [Thalitone]	http://purl.obolibrary.org/obo/DRON_00075124	214083
+Chlorthalidone 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051271	428539
+Amiloride 2.5 MG / Atenolol 50 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052499	432951
+Chlorothiazide 500 MG/ML Injectable Solution	http://purl.obolibrary.org/obo/DRON_00046912	346505
+Acebutolol / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020665	370738
+Hydroflumethiazide 25 MG / Spironolactone 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00041344	250376
+Methyclothiazide / Pargyline Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022842	373241
+Hydroflumethiazide 50 MG / Spironolactone 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00041345	250377
+aliskiren 300 MG / Hydrochlorothiazide 25 MG Oral Tablet [Tekturna HCT 300/25]	http://purl.obolibrary.org/obo/DRON_00084194	1011755
+Enalapril / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00021752	372006
+aliskiren 300 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Tekturna HCT 300/12.5]	http://purl.obolibrary.org/obo/DRON_00084193	1011752
+Amiloride 2.5 MG / Metolazone 2.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051028	427390
+Polythiazide 0.25 MG / Prazosin 0.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051388	428869
+Polythiazide 0.5 MG / Prazosin 1 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051387	428868
+Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet [Tenoretic 50]	http://purl.obolibrary.org/obo/DRON_00078524	746030
+Atenolol 100 MG / Chlorthalidone 25 MG Oral Tablet [Tenoretic 100]	http://purl.obolibrary.org/obo/DRON_00078523	746023
+Chlorthalidone 50 MG / Reserpine 0.25 MG Oral Tablet [Regroton]	http://purl.obolibrary.org/obo/DRON_00075130	214095
+Bisoprolol 5 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00053233	437986
+Hydrochlorothiazide / telmisartan Oral Tablet	http://purl.obolibrary.org/obo/DRON_00027056	378921
+Bisoprolol Fumarate 10 MG / Hydrochlorothiazide 6.25 MG Oral Tablet [Ziac 10/6.25]	http://purl.obolibrary.org/obo/DRON_00080831	854910
+Hydrochlorothiazide 12.5 MG Oral Capsule [Microzide]	http://purl.obolibrary.org/obo/DRON_00074285	211759
+Bendroflumethiazide 2.5 MG / Potassium Chloride 630 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00052146	431740
+Bisoprolol Fumarate 2.5 MG / Hydrochlorothiazide 6.25 MG Oral Tablet [Ziac 2.5/6.25]	http://purl.obolibrary.org/obo/DRON_00080833	854918
+Bendroflumethiazide 2.5 MG / Potassium Chloride 573 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00052147	431741
+Hydrochlorothiazide 12.5 MG / Metoprolol 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00055538	687069
+Bisoprolol Fumarate 5 MG / Hydrochlorothiazide 6.25 MG Oral Tablet [Ziac 5/6.25]	http://purl.obolibrary.org/obo/DRON_00080834	854921
+Hydrochlorothiazide 12.5 MG / Metoprolol 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00055537	687068
+null	http://www.w3.org/2002/07/owl#Nothing	null
+Chlorthalidone / Metoprolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00027293	379254
+Hydrochlorothiazide / Sotalol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00027294	379255
+Amiloride / Hydrochlorothiazide / Timolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00027295	379256
+Amiloride / Atenolol / Hydrochlorothiazide Oral Capsule	http://purl.obolibrary.org/obo/DRON_00027296	379257
+candesartan cilexetil 32 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Atacand HCT 32/12.5]	http://purl.obolibrary.org/obo/DRON_00079509	805859
+candesartan cilexetil 32 MG / Hydrochlorothiazide 25 MG Oral Tablet [Atacand HCT 32/25]	http://purl.obolibrary.org/obo/DRON_00079508	805855
+Bisoprolol / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020993	371103
+eprosartan 600 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Teveten HCT]	http://purl.obolibrary.org/obo/DRON_00076116	352335
+eprosartan 600 MG / Hydrochlorothiazide 25 MG Oral Tablet [Teveten HCT]	http://purl.obolibrary.org/obo/DRON_00076117	352336
+Captopril 12.5 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051376	428813
+Captopril 25 MG / Hydrochlorothiazide 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051375	428812
+Hydrochlorothiazide / irbesartan Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020638	370705
+Enalapril 20 MG / Hydrochlorothiazide 6 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051371	428808
+Chlorthalidone / Metoprolol Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00029323	446468
+Hydrochlorothiazide / Triamterene / Verapamil Oral Tablet	http://purl.obolibrary.org/obo/DRON_00030208	452537
+Hydrochlorothiazide / Verapamil Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00030207	452536
+Bendroflumethiazide 5 MG / Propranolol 160 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00041440	250538
+Bendroflumethiazide 2.5 MG / Timolol 10 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00041443	250543
+Hydrochlorothiazide 12.5 MG / Moexipril hydrochloride 15 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00067414	1299859
+Hydrochlorothiazide 50 MG / Potassium Chloride 300 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00041203	250040
+Bendroflumethiazide 5 MG / Timolol 20 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00041444	250544
+Hydrochlorothiazide 12.5 MG / Moexipril hydrochloride 7.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00067416	1299871
+Amiloride / Hydrochlorothiazide Oral Solution	http://purl.obolibrary.org/obo/DRON_00020763	370848
+Hydrochlorothiazide 25 MG / Moexipril hydrochloride 15 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00067418	1299890
+Hydrochlorothiazide 100 MG / Spironolactone 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051487	429195
+candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Atacand HCT 16/12.5]	http://purl.obolibrary.org/obo/DRON_00079510	805863
+Chlorothiazide 28 MG/ML Injectable Solution	http://purl.obolibrary.org/obo/DRON_00053376	484152
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet [HHR]	http://purl.obolibrary.org/obo/DRON_00082914	966591
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 25 MG Oral Capsule [Hydralazine Plus]	http://purl.obolibrary.org/obo/DRON_00082912	966587
+Bendroflumethiazide 2.5 MG / Potassium Chloride 573 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00731984	431741
+Bendroflumethiazide 2.5 MG / Potassium Chloride 630 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00731983	431740
+aliskiren 300 MG / Amlodipine 5 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00064028	1050812
+aliskiren 300 MG / Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00064027	1050809
+aliskiren 300 MG / Amlodipine 10 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00064026	1050806
+aliskiren 300 MG / Amlodipine 10 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00064025	1050803
+aliskiren 150 MG / Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00064024	1050798
+Hydrochlorothiazide 25 MG Oral Tablet [Hydrocot]	http://purl.obolibrary.org/obo/DRON_00087246	1189779
+Bendroflumethiazide Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00024815	375773
+Bendroflumethiazide / Potassium Chloride Enteric Coated Tablet	http://purl.obolibrary.org/obo/DRON_00024814	375772
+Hydralazine / Hydrochlorothiazide Oral Capsule	http://purl.obolibrary.org/obo/DRON_00020577	370633
+Enalapril Maleate 10 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00059080	858828
+quinethazone 50 MG / Reserpine 0.125 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00046726	315193
+Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020579	370635
+Bendroflumethiazide / Timolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023603	374136
+Hydrochlorothiazide 12.5 MG / Moexipril hydrochloride 7.5 MG Oral Tablet [Uniretic 7.5/12.5]	http://purl.obolibrary.org/obo/DRON_00088760	1299873
+Chlorthalidone Oral Tablet	http://purl.obolibrary.org/obo/DRON_00021302	371472
+Chlorothiazide 500 MG Oral Tablet [Chlotride]	http://purl.obolibrary.org/obo/DRON_00076534	541298
+Enalapril Maleate 20 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00059087	858921
+Hydrochlorothiazide / Metoprolol Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00022519	372890
+Metolazone Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022517	372888
+Hydrochlorothiazide 25 MG / Triamterene 50 MG Oral Capsule [Dyazide]	http://purl.obolibrary.org/obo/DRON_00076410	539539
+Hydrochlorothiazide / Metoprolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022518	372889
+Hydrochlorothiazide 25 MG / Methyldopa 250 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035714	197960
+Chlorothiazide 250 MG / Methyldopa 250 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035713	197959
+Hydrochlorothiazide 25 MG / Triamterene 37.5 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00035955	198316
+Hydrochlorothiazide 30 MG / Methyldopa 500 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035716	197962
+Trichlormethiazide 4 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035958	198319
+Hydrochlorothiazide 50 MG / Methyldopa 500 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035715	197961
+Hydrochlorothiazide 50 MG / Triamterene 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035954	198315
+Hydrochlorothiazide 25 MG / Triamterene 50 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00035953	198314
+Hydrochlorothiazide 25 MG / Moexipril hydrochloride 15 MG Oral Tablet [Uniretic 15/25]	http://purl.obolibrary.org/obo/DRON_00088763	1299959
+Hydrochlorothiazide 15 MG / Methyldopa 250 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035717	197963
+Reserpine 0.1 MG / Trichlormethiazide 2 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035959	198320
+Hydrochlorothiazide / Timolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023858	374419
+Hydrochlorothiazide / valsartan Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023737	374280
+Hydrochlorothiazide / Triamterene Oral Capsule	http://purl.obolibrary.org/obo/DRON_00020584	370640
+Hydrochlorothiazide 25 MG / Propranolol Hydrochloride 80 MG Oral Tablet [Inderide 80/25]	http://purl.obolibrary.org/obo/DRON_00080902	856433
+Chlorothiazide 50 MG/ML Oral Suspension	http://purl.obolibrary.org/obo/DRON_00044418	309198
+Bendroflumethiazide / Spironolactone Oral Tablet	http://purl.obolibrary.org/obo/DRON_00030010	451922
+Atenolol 50 MG / Chlorthalidone 25 MG / Hydralazine 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052341	432657
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.075 MG Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00733980	1233782
+Atenolol 25 MG / Chlorthalidone 12.5 MG / Hydralazine 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052342	432658
+Methyclothiazide 5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035705	197951
+Hydralazine 25 MG / Hydrochlorothiazide 12.5 MG / Metoprolol 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052343	432659
+Methyclothiazide 2.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035704	197950
+Methyclothiazide 5 MG / Triamterene 150 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051182	428210
+Bendroflumethiazide 50 MG / Spironolactone 2.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052345	432662
+Hydrochlorothiazide 12.5 MG / Moexipril hydrochloride 15 MG Oral Tablet [Uniretic 15/12.5]	http://purl.obolibrary.org/obo/DRON_00088759	1299861
+Hydrochlorothiazide 25 MG / telmisartan 80 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00053314	477130
+Bendroflumethiazide 100 MG / Spironolactone 5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052346	432663
+Hydrochlorothiazide Oral Solution	http://purl.obolibrary.org/obo/DRON_00020581	370637
+Hydrochlorothiazide Oral Capsule	http://purl.obolibrary.org/obo/DRON_00020580	370636
+Hydrochlorothiazide / Spironolactone Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020583	370639
+Amiloride / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020582	370638
+deserpidine 0.25 MG / Methyclothiazide 5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035707	197953
+deserpidine 0.5 MG / Methyclothiazide 5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035706	197952
+Hydrochlorothiazide / mepindolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00029273	446301
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.15 MG Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00733981	1233783
+Methyclothiazide 2.5 MG / Reserpine 0.1 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035708	197954
+aliskiren 150 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Tekturna HCT 150/12.5]	http://purl.obolibrary.org/obo/DRON_00084181	1011712
+azilsartan medoxomil 80 MG / Chlorthalidone 12.5 MG Oral Tablet [Edarbyclor 80/12.5]	http://purl.obolibrary.org/obo/DRON_00087570	1235313
+Hydrochlorothiazide 12.5 MG / Losartan Potassium 100 MG Oral Tablet [Hyzaar 100/12.5]	http://purl.obolibrary.org/obo/DRON_00083092	979466
+Hydrochlorothiazide 25 MG / Ramipril 5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00042348	252371
+Hydrochlorothiazide 25 MG / Losartan Potassium 100 MG Oral Tablet [Hyzaar 100/25]	http://purl.obolibrary.org/obo/DRON_00083094	979473
+Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet [Hyzaar 50/12.5]	http://purl.obolibrary.org/obo/DRON_00083093	979470
+aliskiren 150 MG / Hydrochlorothiazide 25 MG Oral Tablet [Tekturna HCT 150/25]	http://purl.obolibrary.org/obo/DRON_00084182	1011715
+Captopril 25 MG / Hydrochlorothiazide 15 MG Oral Tablet [Capozide 25/15]	http://purl.obolibrary.org/obo/DRON_00074015	211053
+Hydroflumethiazide 50 MG Oral Tablet [Saluron]	http://purl.obolibrary.org/obo/DRON_00072196	206552
+Bendroflumethiazide 2.5 MG / Reserpine 0.1 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051178	428203
+Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet [Zestoretic 10/12.5]	http://purl.obolibrary.org/obo/DRON_00079700	823986
+Hydrochlorothiazide 12.5 MG / Triamterene 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051297	428603
+Hydroflumethiazide 25 MG / Reserpine 0.125 MG Oral Tablet [Salutensin-Demi]	http://purl.obolibrary.org/obo/DRON_00072198	206558
+Polythiazide 1 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035813	198110
+cyclothiazide / Triamterene Oral Tablet	http://purl.obolibrary.org/obo/DRON_00030124	452292
+Amiloride 5 MG / Hydrochlorothiazide 50 MG / Timolol 20 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052473	432897
+Chlorthalidone 25 MG / Metoprolol 200 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00052110	431608
+Chlorthalidone / Hydralazine / Oxprenolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00029003	440427
+Hydralazine / Hydrochlorothiazide / Metoprolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00029002	440425
+Polythiazide 4 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035815	198112
+Hydroflumethiazide 50 MG Oral Tablet [Diucardin]	http://purl.obolibrary.org/obo/DRON_00072195	206551
+Hydroflumethiazide 50 MG / Potassium 625 MG / Rauwolfia serpentina (USP) 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051171	428142
+Polythiazide 2 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035814	198111
+Metolazone / Triamterene Oral Tablet	http://purl.obolibrary.org/obo/DRON_00030128	452300
+Methyclothiazide / Triamterene Oral Tablet	http://purl.obolibrary.org/obo/DRON_00030127	452299
+Captopril 25 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00034601	104370
+Hydrochlorothiazide 12.5 MG / Verapamil 240 MG Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00731777	411821
+Atenolol / Chlorthalidone / Hydralazine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00029001	440424
+Amiloride / Atenolol / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00028275	437781
+Atenolol 50 MG / Chlorthalidone 12.5 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00041001	249567
+Hydrochlorothiazide 50 MG / Triamterene 75 MG Oral Tablet [Maxzide]	http://purl.obolibrary.org/obo/DRON_00068941	93252
+Cilazapril 5 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00041121	249851
+azilsartan medoxomil 40 MG / Chlorthalidone 12.5 MG Oral Tablet [Edarbyclor 40/12.5]	http://purl.obolibrary.org/obo/DRON_00087561	1235150
+azilsartan medoxomil 40 MG / Chlorthalidone 25 MG Oral Tablet [Edarbyclor 40/25]	http://purl.obolibrary.org/obo/DRON_00087562	1235157
+Hydrochlorothiazide 25 MG / Triamterene 37.5 MG Oral Tablet [Maxzide]	http://purl.obolibrary.org/obo/DRON_00068942	93253
+cyclothiazide 2 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00044630	309633
+Metolazone 0.5 MG Oral Tablet [Mykrox]	http://purl.obolibrary.org/obo/DRON_00068945	93382
+Atenolol / Chlorthalidone Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020564	370620
+Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 120 MG Extended Release Capsule [Inderide 120/50]	http://purl.obolibrary.org/obo/DRON_00080927	856587
+24 HR Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 120 MG Extended Release Capsule [Inderide 120/50]	http://purl.obolibrary.org/obo/DRON_00080926	856586
+Captopril 25 MG / Hydrochlorothiazide 25 MG Oral Tablet [Capozide 25/25]	http://purl.obolibrary.org/obo/DRON_00074028	211072
+Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 160 MG Extended Release Capsule [Inderide 160/50]	http://purl.obolibrary.org/obo/DRON_00080929	856592
+24 HR Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 160 MG Extended Release Capsule [Inderide 160/50]	http://purl.obolibrary.org/obo/DRON_00080928	856591
+Hydrochlorothiazide 12.5 MG / Ramipril 2.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052000	430636
+Bendroflumethiazide / Meprobamate Oral Tablet	http://purl.obolibrary.org/obo/DRON_00028287	437827
+Bendroflumethiazide / Potassium Chloride Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00028288	437828
+24 HR Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 80 MG Extended Release Capsule [Inderide 80/50]	http://purl.obolibrary.org/obo/DRON_00080930	856596
+Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 80 MG Extended Release Capsule [Inderide 80/50]	http://purl.obolibrary.org/obo/DRON_00080931	856597
+Amlodipine / Hydrochlorothiazide / valsartan Oral Tablet	http://purl.obolibrary.org/obo/DRON_00032538	848130
+Bendroflumethiazide 2.5 MG / Propranolol 80 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00041120	249850
+Hydrochlorothiazide 12.5 MG / Verapamil 240 MG Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00048705	411821
+Hydrochlorothiazide 50 MG / Reserpine 0.125 MG Oral Tablet [Hydro-Reserp]	http://purl.obolibrary.org/obo/DRON_00072813	208090
+cyclothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00021469	371668
+Hydrochlorothiazide 50 MG / Reserpine 0.125 MG Oral Tablet [Hydropres-50]	http://purl.obolibrary.org/obo/DRON_00072814	208091
+Hydrochlorothiazide 50 MG / Reserpine 0.125 MG Oral Tablet [Hydroserp]	http://purl.obolibrary.org/obo/DRON_00072815	208092
+Bendroflumethiazide 5 MG / Potassium Chloride 6.7 MEQ Enteric Coated Tablet	http://purl.obolibrary.org/obo/DRON_00044102	308618
+Hydrochlorothiazide 50 MG / Reserpine 0.125 MG Oral Tablet [Hydroserpine]	http://purl.obolibrary.org/obo/DRON_00072816	208093
+Hydrochlorothiazide 25 MG / Reserpine 0.125 MG Oral Tablet [Hydroserp]	http://purl.obolibrary.org/obo/DRON_00072810	208086
+Hydrochlorothiazide 25 MG / Reserpine 0.125 MG Oral Tablet [Hydroserpine]	http://purl.obolibrary.org/obo/DRON_00072811	208088
+Hydrochlorothiazide 25 MG / Reserpine 0.125 MG Oral Tablet [Mallopress]	http://purl.obolibrary.org/obo/DRON_00072812	208089
+Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 120 MG Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00058753	856393
+24 HR Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 80 MG Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00058757	856412
+Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet [Benicar HCT 20/12.5]	http://purl.obolibrary.org/obo/DRON_00080564	847060
+Amiloride Hydrochloride 5 MG / Hydrochlorothiazide 50 MG Oral Tablet [Moduretic 5-50]	http://purl.obolibrary.org/obo/DRON_00082987	977885
+Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 160 MG Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00058756	856406
+24 HR Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 160 MG Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00058755	856401
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet [Diuretic Ap-Es]	http://purl.obolibrary.org/obo/DRON_00082742	905355
+Hydrochlorothiazide 12.5 MG / quinapril 20 MG Oral Tablet [Accuretic 20/12.5]	http://purl.obolibrary.org/obo/DRON_00079684	809858
+24 HR Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 120 MG Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00058754	856398
+Hydrochlorothiazide 12.5 MG / quinapril 10 MG Oral Tablet [Accuretic 10/12.5]	http://purl.obolibrary.org/obo/DRON_00079683	809854
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet [Ser-Ap-Es]	http://purl.obolibrary.org/obo/DRON_00082743	905367
+Hydrochlorothiazide 50 MG / Spironolactone 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035875	198225
+Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035874	198224
+Hydrochlorothiazide 25 MG / Propranolol Hydrochloride 40 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058759	856422
+Chlorothiazide 250 MG / Reserpine 0.125 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00037810	237192
+Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 80 MG Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00058758	856417
+Polythiazide 0.5 MG / Prazosin 1 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00045791	312481
+Chlorthalidone / Oxprenolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022793	373181
+Chlorthalidone / Oxprenolol Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00022794	373182
+Indapamide Oral Capsule	http://purl.obolibrary.org/obo/DRON_00029063	440585
+Bendroflumethiazide 5 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00044101	308617
+Hydrochlorothiazide 25 MG / Olmesartan medoxomil 40 MG Oral Tablet [Benicar HCT 40/25]	http://purl.obolibrary.org/obo/DRON_00080561	847042
+24 HR Hydrochlorothiazide 25 MG / Metoprolol Tartrate 200 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00733896	1111439
+Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 40 MG Oral Tablet [Benicar HCT 40/12.5]	http://purl.obolibrary.org/obo/DRON_00080563	847055
+Polythiazide 0.5 MG / Prazosin 5 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00045793	312483
+Hydrochlorothiazide 25 MG / Reserpine 0.125 MG Oral Tablet [Hydro-Reserp]	http://purl.obolibrary.org/obo/DRON_00072808	208084
+Polythiazide 0.5 MG / Prazosin 2 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00045792	312482
+Hydrochlorothiazide / Magnesium Chloride / Methotrimeprazine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00029066	440593
+Hydrochlorothiazide 25 MG / Reserpine 0.125 MG Oral Tablet [Hydropres-25]	http://purl.obolibrary.org/obo/DRON_00072809	208085
+Dihydralazine 10 MG / Hydrochlorothiazide 10 MG / Reserpine 0.1 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00041075	249746
+Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet [Spironolactone Plus]	http://purl.obolibrary.org/obo/DRON_00072824	208113
+Captopril / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00021116	371253
+Hydrochlorothiazide / Triamterene Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023657	374192
+Hydrochlorothiazide 50 MG / Spironolactone 50 MG Oral Tablet [Aldactazide]	http://purl.obolibrary.org/obo/DRON_00072826	208116
+Hydrochlorothiazide 25 MG / Spironolactone 25 MG Oral Tablet [Aldactazide]	http://purl.obolibrary.org/obo/DRON_00072823	208112
+Hydrochlorothiazide 25 MG / Propranolol Hydrochloride 80 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058760	856429
+Hydroflumethiazide / Potassium / Rauwolfia preparation Oral Tablet	http://purl.obolibrary.org/obo/DRON_00031260	637711
+aliskiren / Amlodipine / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00033683	1050796
+Indapamide 1.25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035620	197815
+candesartan cilexetil 16 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00054162	578325
+candesartan cilexetil 32 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00054163	578330
+Hydrochlorothiazide 12.5 MG / Lisinopril 20 MG Oral Tablet [Zestoretic 20/12.5]	http://purl.obolibrary.org/obo/DRON_00079699	823982
+eprosartan / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00026929	378735
+Hydrochlorothiazide 25 MG / Lisinopril 20 MG Oral Tablet [Zestoretic 20/25]	http://purl.obolibrary.org/obo/DRON_00079698	823971
+Hydrochlorothiazide 25 MG / irbesartan 300 MG Oral Tablet [Avalide 300/25]	http://purl.obolibrary.org/obo/DRON_00079697	823942
+Amlodipine / Hydrochlorothiazide / olmesartan Oral Tablet	http://purl.obolibrary.org/obo/DRON_00033447	999966
+Hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet [Avalide 300/12.5]	http://purl.obolibrary.org/obo/DRON_00079696	823938
+Hydrochlorothiazide 25 MG / Metoprolol Tartrate 100 MG Oral Tablet [Lopressor HCT 100/25]	http://purl.obolibrary.org/obo/DRON_00081887	866498
+24 HR Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 50 MG Extended Release Tablet [Dutoprol 50/12.5]	http://purl.obolibrary.org/obo/DRON_00081884	866475
+Hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet [Avalide 150/12.5]	http://purl.obolibrary.org/obo/DRON_00079695	823934
+Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 50 MG Extended Release Tablet [Dutoprol 50/12.5]	http://purl.obolibrary.org/obo/DRON_00081885	866477
+aliskiren 300 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00062900	1011750
+Indapamide 2.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035621	197816
+aliskiren 300 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00062901	1011753
+Hydrochlorothiazide 25 MG / Metoprolol Tartrate 50 MG Oral Tablet [Lopressor HCT 50/25]	http://purl.obolibrary.org/obo/DRON_00081888	866502
+Hydrochlorothiazide 50 MG / Metoprolol Tartrate 100 MG Oral Tablet [Lopressor HCT 100/50]	http://purl.obolibrary.org/obo/DRON_00081889	866506
+24 HR Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 25 MG Extended Release Tablet [Dutoprol 25/12.5]	http://purl.obolibrary.org/obo/DRON_00081882	866464
+Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 25 MG Extended Release Tablet [Dutoprol 25/12.5]	http://purl.obolibrary.org/obo/DRON_00081883	866466
+24 HR Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 100 MG Extended Release Tablet [Dutoprol 100/12.5]	http://purl.obolibrary.org/obo/DRON_00081880	866455
+Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 100 MG Extended Release Tablet [Dutoprol 100/12.5]	http://purl.obolibrary.org/obo/DRON_00081881	866457
+Hydrochlorothiazide 25 MG / Triamterene 37.5 MG Oral Capsule [Dyazide]	http://purl.obolibrary.org/obo/DRON_00072831	208124
+deserpidine 0.25 MG / Methyclothiazide 5 MG Oral Tablet [Enduronyl]	http://purl.obolibrary.org/obo/DRON_00071621	205480
+deserpidine 0.5 MG / Methyclothiazide 5 MG Oral Tablet [Enduronyl Forte]	http://purl.obolibrary.org/obo/DRON_00071623	205482
+deserpidine 0.25 MG / Hydrochlorothiazide 25 MG Oral Tablet [Oreticyl Forte]	http://purl.obolibrary.org/obo/DRON_00071620	205478
+Polythiazide 2 MG / Reserpine 0.25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035856	198198
+Bendroflumethiazide 5 MG / Nadolol 80 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035738	198001
+Bendroflumethiazide 5 MG / Nadolol 40 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035737	198000
+Hydroflumethiazide 25 MG / Reserpine 0.125 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035611	197789
+Bisoprolol 10 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051093	427556
+Hydroflumethiazide 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035610	197788
+Hydroflumethiazide 50 MG / Reserpine 0.125 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035612	197790
+Hydroflumethiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020594	370650
+deserpidine 0.125 MG / Hydrochlorothiazide 25 MG Oral Tablet [Oreticyl 25]	http://purl.obolibrary.org/obo/DRON_00071618	205474
+deserpidine 0.125 MG / Hydrochlorothiazide 50 MG Oral Tablet [Oreticyl 50]	http://purl.obolibrary.org/obo/DRON_00071619	205476
+Reserpine 0.1 MG / Trichlormethiazide 2 MG Oral Tablet [Metatensin #2]	http://purl.obolibrary.org/obo/DRON_00072606	207385
+Bendroflumethiazide 2.5 MG / Propranolol Hydrochloride 80 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00058782	856615
+Indapamide 2.5 MG Oral Tablet [Natrilix]	http://purl.obolibrary.org/obo/DRON_00071510	202225
+Reserpine 0.1 MG / Trichlormethiazide 4 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035960	198321
+Metolazone 0.5 MG Oral Tablet [Xuret]	http://purl.obolibrary.org/obo/DRON_00070421	150748
+Hydrochlorothiazide 25 MG / Methyldopa 250 MG Oral Tablet [Aldoril]	http://purl.obolibrary.org/obo/DRON_00078029	688645
+Bisoprolol Fumarate 10 MG / Hydrochlorothiazide 6.25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058664	854908
+Hydrochlorothiazide 15 MG / Methyldopa 250 MG Oral Tablet [Aldoril]	http://purl.obolibrary.org/obo/DRON_00078028	688643
+Hydrochlorothiazide / Losartan Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022308	372650
+Hydrochlorothiazide 25 MG / Propranolol Hydrochloride 30 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058784	856618
+Bendroflumethiazide 5 MG / Propranolol Hydrochloride 160 MG Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00058783	856616
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet [Serpazide]	http://purl.obolibrary.org/obo/DRON_00082755	905405
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet [Serpex]	http://purl.obolibrary.org/obo/DRON_00082756	905407
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet [Marpres]	http://purl.obolibrary.org/obo/DRON_00082753	905401
+Metolazone 10 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035727	197978
+Bisoprolol Fumarate 5 MG / Hydrochlorothiazide 6.25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058667	854919
+Chlorothiazide 28 MG/ML Injectable Solution [Diuril]	http://purl.obolibrary.org/obo/DRON_00083601	996476
+Bisoprolol Fumarate 2.5 MG / Hydrochlorothiazide 6.25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058666	854916
+Metolazone 0.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035726	197977
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet [Serathide]	http://purl.obolibrary.org/obo/DRON_00082754	905403
+Hydrochlorothiazide 50 MG / Reserpine 0.125 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035600	197771
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet [Unipres]	http://purl.obolibrary.org/obo/DRON_00082759	905413
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet [Tri-Hydroserpine]	http://purl.obolibrary.org/obo/DRON_00082757	905409
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet [Uni Serp]	http://purl.obolibrary.org/obo/DRON_00082758	905411
+Cilazapril / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00021330	371507
+Metolazone 2.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035728	197979
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet [Hydrap-ES]	http://purl.obolibrary.org/obo/DRON_00082752	905399
+Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045117	310798
+Hydrochlorothiazide 12.5 MG / quinapril 20 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045116	310797
+Hydrochlorothiazide 12.5 MG / quinapril 10 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045115	310796
+Hydrochlorothiazide 12.5 MG / irbesartan 300 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045114	310793
+Bendroflumethiazide 2.5 MG Oral Tablet [Centyl]	http://purl.obolibrary.org/obo/DRON_00070957	200791
+Bendroflumethiazide / Propranolol Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00023202	373656
+Hydrochlorothiazide 25 MG / Reserpine 0.1 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045119	310810
+Hydrochlorothiazide 25 MG / quinapril 20 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045118	310809
+Bendroflumethiazide / Propranolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023203	373657
+24 HR Indapamide 1.5 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00732120	433844
+24 HR Hydrochlorothiazide 12.5 MG / metoprolol succinate 25 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00733330	866461
+Amiloride 5 MG / Bendroflumethiazide 2.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00052297	432599
+Hydrochlorothiazide 12.5 MG / metoprolol succinate 25 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00733331	866465
+Amlodipine 10 MG / Hydrochlorothiazide 25 MG / valsartan 320 MG Oral Tablet [Exforge HCT 10/320/25]	http://purl.obolibrary.org/obo/DRON_00080644	848139
+Amlodipine 10 MG / Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Exforge HCT 10/160/12.5]	http://purl.obolibrary.org/obo/DRON_00080643	848134
+Chlorthalidone 25 MG / Triamterene 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00034588	104246
+Amlodipine 5 MG / Hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Exforge HCT 5/160/25]	http://purl.obolibrary.org/obo/DRON_00080646	848149
+Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / valsartan 160 MG Oral Tablet [Exforge HCT 5/160/12.5]	http://purl.obolibrary.org/obo/DRON_00080645	848144
+Chlorthalidone 50 MG / Triamterene 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00034589	104248
+Amlodipine 10 MG / Hydrochlorothiazide 25 MG / valsartan 160 MG Oral Tablet [Exforge HCT 10/160/25]	http://purl.obolibrary.org/obo/DRON_00080647	848155
+24 HR Chlorthalidone 25 MG / Metoprolol 200 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00732128	433855
+Bendroflumethiazide / Propranolol Oral Capsule	http://purl.obolibrary.org/obo/DRON_00023201	373655
+Metolazone 5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045471	311671
+Bendroflumethiazide / Nadolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022596	372977
+Hydrochlorothiazide 12.5 MG / irbesartan 150 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045113	310792
+Hydrochlorothiazide 25 MG / Metoprolol Tartrate 200 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00733334	866846
+Hydrochlorothiazide 12.5 MG / Metoprolol 100 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00732246	434380
+24 HR Hydrochlorothiazide 12.5 MG / metoprolol succinate 50 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00733332	866472
+Hydrochlorothiazide 12.5 MG / metoprolol succinate 50 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00733333	866476
+Bendroflumethiazide 5 MG Oral Tablet [Neo-NaClex]	http://purl.obolibrary.org/obo/DRON_00070964	200798
+Bendroflumethiazide 5 MG Oral Tablet [Berkozide]	http://purl.obolibrary.org/obo/DRON_00070963	200797
+Bendroflumethiazide 5 MG Oral Tablet [Aprinox]	http://purl.obolibrary.org/obo/DRON_00070962	200796
+Bendroflumethiazide 5 MG Oral Tablet [Urizid]	http://purl.obolibrary.org/obo/DRON_00070961	200795
+Methyclothiazide 5 MG Oral Tablet [Enduron]	http://purl.obolibrary.org/obo/DRON_00070965	200799
+Bendroflumethiazide 5 MG Oral Tablet [Centyl]	http://purl.obolibrary.org/obo/DRON_00070960	200794
+Polythiazide 0.5 MG / Prazosin 1 MG Oral Capsule [Minizide 1]	http://purl.obolibrary.org/obo/DRON_00078688	754812
+Polythiazide 0.5 MG / Prazosin 5 MG Oral Capsule [Minizide 5]	http://purl.obolibrary.org/obo/DRON_00078687	754806
+Polythiazide 0.5 MG / Prazosin 2 MG Oral Capsule [Minizide 2]	http://purl.obolibrary.org/obo/DRON_00078686	754802
+Chlorthalidone 25 MG / Reserpine 0.125 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00037722	205364
+Chlorthalidone 50 MG / Reserpine 0.25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00037723	205365
+Chlorothiazide / Methyldopa Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022485	372852
+Hydrochlorothiazide / Methyldopa Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022486	372853
+Bendroflumethiazide / Clonidine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00021397	371584
+Bendroflumethiazide 2.5 MG Oral Tablet [Berkozide]	http://purl.obolibrary.org/obo/DRON_00070959	200793
+Bendroflumethiazide 2.5 MG Oral Tablet [Aprinox]	http://purl.obolibrary.org/obo/DRON_00070958	200792
+Chlorthalidone / Clonidine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00021393	371580
+Methyclothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022480	372847
+Chlorothiazide Oral Suspension	http://purl.obolibrary.org/obo/DRON_00021249	371409
+Trichlormethiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023664	374199
+Chlorthalidone 15 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035411	197498
+Chlorthalidone 100 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035410	197497
+Fosinopril Sodium 20 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058852	857174
+Fosinopril Sodium 10 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058850	857166
+Hydrochlorothiazide 25 MG / Timolol 10 MG Oral Tablet [Timolide]	http://purl.obolibrary.org/obo/DRON_00076396	491234
+Hydrochlorothiazide 25 MG / Lisinopril 20 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035659	197887
+Hydrochlorothiazide 12.5 MG / Lisinopril 20 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035658	197886
+Hydralazine Hydrochloride 50 MG / Hydrochlorothiazide 50 MG Oral Capsule [Apresazide 50/50]	http://purl.obolibrary.org/obo/DRON_00082726	905221
+Chlorthalidone 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035413	197500
+Chlorthalidone 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035412	197499
+Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035657	197885
+Hydralazine Hydrochloride 100 MG / Hydrochlorothiazide 50 MG Oral Capsule [Apresazide 100/50]	http://purl.obolibrary.org/obo/DRON_00082724	905207
+Hydrochlorothiazide 25 MG / quinapril 20 MG Oral Tablet [Accuretic 20/25]	http://purl.obolibrary.org/obo/DRON_00081999	882559
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 25 MG Oral Capsule [Apresazide 25/25]	http://purl.obolibrary.org/obo/DRON_00082725	905215
+Hydrochlorothiazide / moexipril Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022573	372946
+Hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00043396	283316
+Hydrochlorothiazide 12.5 MG / telmisartan 80 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00043397	283317
+Methyclothiazide 5 MG / Pargyline 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045447	311632
+Hydroflumethiazide / Spironolactone Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023437	373948
+Indapamide 1.5 MG Extended Release Tablet [Natrilix SR]	http://purl.obolibrary.org/obo/DRON_00070747	153208
+Hydrochlorothiazide 12.5 MG / metoprolol succinate 100 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00733329	866456
+Bendroflumethiazide 4 MG / Rauwolfia serpentina (USP) 50 MG Oral Tablet [Rondameth]	http://purl.obolibrary.org/obo/DRON_00072800	208067
+Chlorothiazide Injectable Solution	http://purl.obolibrary.org/obo/DRON_00025611	376874
+deserpidine / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00021499	371705
+Chlorothiazide 500 MG / Reserpine 0.125 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035400	197477
+Hydrochlorothiazide 25 MG / telmisartan 80 MG Oral Tablet [Micardis-HCT 80/25]	http://purl.obolibrary.org/obo/DRON_00078586	749841
+Hydrochlorothiazide 12.5 MG / telmisartan 80 MG Oral Tablet [Micardis-HCT 80/12.5]	http://purl.obolibrary.org/obo/DRON_00078585	749837
+Hydrochlorothiazide 12.5 MG / telmisartan 40 MG Oral Tablet [Micardis-HCT 40/12.5]	http://purl.obolibrary.org/obo/DRON_00078584	749833
+Chlorothiazide 150 MG / Methyldopa 250 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00037704	205332
+Hydrochlorothiazide / Labetalol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022221	372553
+24 HR Hydrochlorothiazide 12.5 MG / metoprolol succinate 100 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00733328	866452
+Chlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00021250	371410
+Bendroflumethiazide 5 MG / Nadolol 40 MG Oral Tablet [Corzide 40/5]	http://purl.obolibrary.org/obo/DRON_00072777	208003
+Hydrochlorothiazide 25 MG / Metoprolol Tartrate 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00059563	866482
+Hydrochlorothiazide 25 MG / Metoprolol Tartrate 100 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00059562	866479
+Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 50 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00059561	866476
+Hydrochlorothiazide 100 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035598	197769
+24 HR Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 50 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00059560	866472
+Diltiazem / Hydrochlorothiazide Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00027727	385943
+Hydrochlorothiazide 25 MG / Lisinopril 20 MG Oral Tablet [Prinzide]	http://purl.obolibrary.org/obo/DRON_00072770	207965
+Hydrochlorothiazide 50 MG / Metoprolol Tartrate 100 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00059565	866491
+candesartan cilexetil 32 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00057269	802749
+Hydrochlorothiazide / olmesartan Oral Tablet	http://purl.obolibrary.org/obo/DRON_00027960	406041
+azilsartan medoxomil 40 MG / Chlorthalidone 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00066090	1235144
+azilsartan medoxomil 40 MG / Chlorthalidone 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00066091	1235151
+Hydrochlorothiazide 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035599	197770
+Hydrochlorothiazide 25 MG / Reserpine 0.125 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00037417	204501
+Atenolol 50 MG / Chlorthalidone 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035239	152916
+Amiloride Hydrochloride 2.5 MG / Atenolol 50 MG / Hydrochlorothiazide 25 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00061766	977920
+Hydrochlorothiazide 25 MG / Triamterene 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00046485	314029
+Hydrochlorothiazide / Lisinopril Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022274	372613
+Polythiazide / Prazosin Oral Capsule	http://purl.obolibrary.org/obo/DRON_00023122	373564
+azilsartan medoxomil 80 MG / Chlorthalidone 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00066097	1235307
+Hydrochlorothiazide 50 MG / Reserpine 0.1 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00046482	314018
+Hydrochlorothiazide 12.5 MG / Metoprolol 100 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00052938	434380
+Bendroflumethiazide 5 MG / Nadolol 80 MG Oral Tablet [Corgaretic 80]	http://purl.obolibrary.org/obo/DRON_00069489	104324
+Hydrochlorothiazide 100 MG/ML Oral Solution	http://purl.obolibrary.org/obo/DRON_00046483	314020
+Metolazone 2.5 MG Oral Tablet [Zaroxolyn]	http://purl.obolibrary.org/obo/DRON_00072546	207271
+Metolazone 5 MG Oral Tablet [Zaroxolyn]	http://purl.obolibrary.org/obo/DRON_00072547	207272
+Hydrochlorothiazide 25 MG / Metoprolol Tartrate 200 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00059574	866846
+Amiloride Hydrochloride 5 MG / Hydrochlorothiazide 50 MG Oral Tablet [Zida-Co]	http://purl.obolibrary.org/obo/DRON_00070361	108966
+Bendroflumethiazide 5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035342	197394
+deserpidine 0.25 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035460	197564
+Bendroflumethiazide 5 MG / Nadolol 80 MG Oral Tablet [Corzide 80/5]	http://purl.obolibrary.org/obo/DRON_00072780	208029
+Bendroflumethiazide 10 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035341	197393
+Hydrochlorothiazide 25 MG / Labetalol hydrochloride 200 MG Oral Tablet [Trandide]	http://purl.obolibrary.org/obo/DRON_00082338	896990
+Amlodipine 5 MG / Hydrochlorothiazide 25 MG / Olmesartan medoxomil 40 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00062506	1000001
+Atenolol 50 MG / Chlorthalidone 12.5 MG Oral Tablet [Tenoret]	http://purl.obolibrary.org/obo/DRON_00069490	104337
+Amlodipine 10 MG / Hydrochlorothiazide 25 MG / Olmesartan medoxomil 40 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00062504	999991
+Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 40 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00062505	999996
+Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00062502	999967
+Amiloride Hydrochloride 2.5 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00061776	977950
+Atenolol 100 MG / Chlorthalidone 25 MG Oral Tablet [Tenchlor]	http://purl.obolibrary.org/obo/DRON_00069492	104344
+Atenolol 50 MG / Chlorthalidone 12.5 MG Oral Tablet [Tenchlor]	http://purl.obolibrary.org/obo/DRON_00069491	104343
+Amlodipine 10 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 40 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00062503	999986
+Bendroflumethiazide 4 MG / Rauwolfia serpentina (USP) 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00053910	562344
+Amiloride Hydrochloride 2.5 MG / Hydrochlorothiazide 25 MG / Timolol Maleate 10 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00061775	977949
+Enalapril Maleate 5 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Vaseretic]	http://purl.obolibrary.org/obo/DRON_00081244	858827
+Enalapril Maleate 10 MG / Hydrochlorothiazide 25 MG Oral Tablet [Vaseretic]	http://purl.obolibrary.org/obo/DRON_00081245	858830
+Diltiazem Hydrochloride 150 MG / Hydrochlorothiazide 12.5 MG Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00733146	849871
+Indapamide 1.5 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00724886	250529
+Bendroflumethiazide 4 MG / Rauwolfia serpentina (USP) 50 MG Oral Tablet [Flumezide]	http://purl.obolibrary.org/obo/DRON_00072798	208065
+Enalapril 10 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00047315	349449
+Bendroflumethiazide 4 MG / Rauwolfia serpentina (USP) 50 MG Oral Tablet [Rauzide]	http://purl.obolibrary.org/obo/DRON_00072799	208066
+Chlorothiazide 50 MG/ML Oral Suspension [Diuril]	http://purl.obolibrary.org/obo/DRON_00074858	213439
+Atenolol 100 MG / Chlorthalidone 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035332	197382
+Atenolol 50 MG / Chlorthalidone 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035333	197383
+Chlorthalidone 20 MG / Oxprenolol 160 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00724760	246526
+Metolazone 10 MG Oral Tablet [Zaroxolyn]	http://purl.obolibrary.org/obo/DRON_00072550	207276
+24 HR Hydrochlorothiazide 12.5 MG / Metoprolol 100 MG Extended Release Oral Tablet	http://purl.obolibrary.org/obo/DRON_00732143	433891
+deserpidine 0.125 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035459	197563
+deserpidine 0.125 MG / Hydrochlorothiazide 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035458	197562
+Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet [Carace Plus]	http://purl.obolibrary.org/obo/DRON_00069384	103966
+Hydralazine Hydrochloride 25 MG / Hydrochlorothiazide 15 MG / Reserpine 0.1 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00061422	905353
+Benazepril hydrochloride 20 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00060691	898367
+Benazepril hydrochloride 10 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00060690	898362
+Benazepril hydrochloride 5 MG / Hydrochlorothiazide 6.25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00060693	898378
+Benazepril hydrochloride 20 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00060692	898372
+Hydrochlorothiazide 50 MG Oral Tablet [Aquazide H]	http://purl.obolibrary.org/obo/DRON_00075834	351451
+Indapamide Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00022149	372468
+Chlorothiazide 500 MG Oral Tablet [Diuril]	http://purl.obolibrary.org/obo/DRON_00074863	213447
+Hydroflumethiazide 50 MG / Reserpine 0.125 MG Oral Tablet [Salutensin]	http://purl.obolibrary.org/obo/DRON_00072200	206563
+Chlorothiazide 250 MG Oral Tablet [Diuril]	http://purl.obolibrary.org/obo/DRON_00074862	213443
+Bendroflumethiazide 2.5 MG / Potassium 8.4 MMOL Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00034594	104267
+Chlorthalidone 12.5 MG / Metoprolol 100 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00034597	104332
+Bendroflumethiazide 2.5 MG / Potassium 7.7 MMOL Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00034591	104264
+Clonidine Hydrochloride 0.15 MG / cyclothiazide 2.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00065919	1233788
+Clonidine Hydrochloride 0.15 MG / Hydrochlorothiazide 5 MG / Triamterene 10 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00065918	1233787
+Chlorthalidone 50 MG / Clonidine Hydrochloride 0.075 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00065915	1233784
+Hydrochlorothiazide 12.5 MG / Sotalol 80 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00034599	104340
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.15 MG Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00065914	1233783
+Hydrochlorothiazide 25 MG / Sotalol 160 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00034598	104338
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.075 MG Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00065913	1233782
+Indapamide 2.5 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00048510	411160
+Bendroflumethiazide 5 MG / Clonidine Hydrochloride 0.1 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00065911	1233769
+Hydrochlorothiazide 25 MG / Timolol 10 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045120	310811
+Hydrochlorothiazide 50 MG / Triamterene 75 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045124	310818
+Hydrochlorothiazide 50 MG / Triamterene 75 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00045123	310817
+Hydrochlorothiazide 10 MG/ML Oral Solution	http://purl.obolibrary.org/obo/DRON_00045122	310813
+Fosinopril Sodium 20 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Monopril-HCT 20/12.5]	http://purl.obolibrary.org/obo/DRON_00081022	857178
+Fosinopril Sodium 10 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Monopril-HCT 10/12.5]	http://purl.obolibrary.org/obo/DRON_00081023	857182
+Hydrochlorothiazide 25 MG / Triamterene 37.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045121	310812
+Hydrochlorothiazide 25 MG / Reserpine 0.25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00041713	251055
+Chlorothiazide 250 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035398	197475
+Chlorothiazide 500 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035399	197476
+Bendroflumethiazide 200 MG / Meprobamate 3 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051993	430626
+Indapamide 1.25 MG / Perindopril Erbumine 4 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00058673	854993
+Hydrochlorothiazide 50 MG / Methyldopa 500 MG Oral Tablet [Aldoril]	http://purl.obolibrary.org/obo/DRON_00078031	688649
+Guanethidine 10 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00045070	310664
+Hydrochlorothiazide 30 MG / Methyldopa 500 MG Oral Tablet [Aldoril]	http://purl.obolibrary.org/obo/DRON_00078030	688647
+Chlorothiazide / Reserpine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023288	373760
+Chlorthalidone / Reserpine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023289	373761
+Reserpine 0.1 MG / Trichlormethiazide 4 MG Oral Tablet [Metatensin #4]	http://purl.obolibrary.org/obo/DRON_00072608	207387
+Indapamide 0.625 MG / Perindopril 2 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051629	429647
+Hydrochlorothiazide 100 MG Oral Tablet [HydroDIURIL]	http://purl.obolibrary.org/obo/DRON_00072749	207935
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.3 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00059776	884203
+Bendroflumethiazide / Potassium Chloride Oral Tablet	http://purl.obolibrary.org/obo/DRON_00020900	371005
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.2 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00059775	884198
+Chlorthalidone 15 MG / Clonidine Hydrochloride 0.1 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00059774	884192
+Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 160 MG Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00733187	856406
+Hydroflumethiazide / Reserpine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023291	373763
+Diltiazem Hydrochloride 150 MG / Hydrochlorothiazide 12.5 MG Extended Release Capsule	http://purl.obolibrary.org/obo/DRON_00058328	849871
+Amiloride 1 MG/ML / Hydrochlorothiazide 10 MG/ML Oral Solution	http://purl.obolibrary.org/obo/DRON_00041819	251268
+24 HR Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 80 MG Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00733188	856412
+Methyclothiazide / Reserpine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023292	373764
+24 HR Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 120 MG Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00733185	856398
+Amlodipine 5 MG / Hydrochlorothiazide 25 MG / Olmesartan medoxomil 40 MG Oral Tablet [Tribenzor 40/5/25]	http://purl.obolibrary.org/obo/DRON_00083865	1000005
+Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 40 MG Oral Tablet [Tribenzor 40/5/12.5]	http://purl.obolibrary.org/obo/DRON_00083864	1000000
+Hydrochlorothiazide / Reserpine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023290	373762
+24 HR Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 160 MG Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00733186	856401
+Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 120 MG Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00733184	856393
+Hydrochlorothiazide 12.5 MG / Losartan Potassium 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00061851	979468
+Hydrochlorothiazide 25 MG / Losartan Potassium 100 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00061852	979471
+Bendroflumethiazide 2.5 MG Oral Tablet [Neo-Bendromax]	http://purl.obolibrary.org/obo/DRON_00069452	104211
+Hydrochlorothiazide 12.5 MG / Losartan Potassium 100 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00061850	979464
+Reserpine / Trichlormethiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023295	373767
+Amlodipine 10 MG / Hydrochlorothiazide 25 MG / Olmesartan medoxomil 40 MG Oral Tablet [Tribenzor 40/10/25]	http://purl.obolibrary.org/obo/DRON_00083863	999995
+Amlodipine 10 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 40 MG Oral Tablet [Tribenzor 40/10/12.5]	http://purl.obolibrary.org/obo/DRON_00083862	999990
+Bendroflumethiazide 5 MG Oral Tablet [Neo-Bendromax]	http://purl.obolibrary.org/obo/DRON_00069453	104212
+Amlodipine 5 MG / Hydrochlorothiazide 12.5 MG / Olmesartan medoxomil 20 MG Oral Tablet [Tribenzor 20/5/12.5]	http://purl.obolibrary.org/obo/DRON_00083861	999971
+Bendroflumethiazide 2.5 MG / Potassium Chloride 6.7 MEQ Enteric Coated Tablet	http://purl.obolibrary.org/obo/DRON_00044099	308615
+Polythiazide / Reserpine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023293	373765
+Hydrochlorothiazide 50 MG / Propranolol Hydrochloride 80 MG Extended Release Oral Capsule	http://purl.obolibrary.org/obo/DRON_00733189	856417
+quinethazone / Reserpine Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023294	373766
+Bendroflumethiazide 2.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00044098	308614
+Hydrochlorothiazide 50 MG Oral Tablet [Hydro Par]	http://purl.obolibrary.org/obo/DRON_00072758	207944
+Hydrochlorothiazide 50 MG Oral Tablet [HydroDIURIL]	http://purl.obolibrary.org/obo/DRON_00072759	207945
+Captopril 50 MG / Hydrochlorothiazide 15 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035370	197438
+Hydrochlorothiazide 50 MG Oral Tablet [Carozide]	http://purl.obolibrary.org/obo/DRON_00072754	207940
+Hydrochlorothiazide 12.5 MG / mepindolol 5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051736	429935
+Hydrochlorothiazide 50 MG Oral Tablet [Diaqua]	http://purl.obolibrary.org/obo/DRON_00072755	207941
+Chlorthalidone / Triamterene Oral Tablet	http://purl.obolibrary.org/obo/DRON_00025206	376315
+Hydrochlorothiazide 50 MG Oral Tablet [Esidrix]	http://purl.obolibrary.org/obo/DRON_00072756	207942
+Hydrochlorothiazide 50 MG Oral Tablet [Ezide]	http://purl.obolibrary.org/obo/DRON_00072757	207943
+Hydrochlorothiazide 25 MG Oral Tablet [Esidrix]	http://purl.obolibrary.org/obo/DRON_00072750	207936
+Chlorthalidone 20 MG / Oxprenolol 160 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00039855	246526
+Chlorthalidone 10 MG / Oxprenolol 80 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00039854	246525
+Atenolol 25 MG / Bendroflumethiazide 1.25 MG Oral Capsule	http://purl.obolibrary.org/obo/DRON_00035254	153155
+Hydrochlorothiazide 25 MG Oral Tablet [Hydro Par]	http://purl.obolibrary.org/obo/DRON_00072751	207937
+Hydrochlorothiazide 25 MG Oral Tablet [HydroDIURIL]	http://purl.obolibrary.org/obo/DRON_00072752	207938
+Hydrochlorothiazide 25 MG Oral Tablet [Oretic]	http://purl.obolibrary.org/obo/DRON_00072753	207939
+Captopril 50 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035371	197439
+Hydralazine Hydrochloride 50 MG / Hydrochlorothiazide 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00061500	966613
+Amiloride Hydrochloride 2.5 MG / Hydrochlorothiazide 25 MG Oral Tablet [Moduret 25]	http://purl.obolibrary.org/obo/DRON_00069462	104243
+quinethazone Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023263	373734
+Hydrochlorothiazide / quinapril Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023261	373732
+Hydrochlorothiazide 12.5 MG / Lisinopril 20 MG Oral Tablet [Prinzide]	http://purl.obolibrary.org/obo/DRON_00072769	207963
+Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051605	429503
+Amiloride 1.8 MG / Furosemide 5 MG / Indapamide 16 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051846	430188
+Bendroflumethiazide 1.25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051604	429502
+Amiloride 16 MG / Furosemide 1.8 MG / Indapamide 5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00051845	430187
+Hydrochlorothiazide 12.5 MG / Lisinopril 10 MG Oral Tablet [Prinzide]	http://purl.obolibrary.org/obo/DRON_00072768	207961
+Hydrochlorothiazide 50 MG Oral Tablet [Oretic]	http://purl.obolibrary.org/obo/DRON_00072761	207947
+azilsartan / Chlorthalidone Oral Tablet	http://purl.obolibrary.org/obo/DRON_00034036	1235142
+24 HR Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 100 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00059556	866452
+Hydrochlorothiazide 50 MG Oral Tablet [Loqua]	http://purl.obolibrary.org/obo/DRON_00072760	207946
+Benazepril hydrochloride 20 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Lotensin HCT 20/12.5]	http://purl.obolibrary.org/obo/DRON_00082436	898371
+Benazepril hydrochloride 20 MG / Hydrochlorothiazide 25 MG Oral Tablet [Lotensin HCT 20/25]	http://purl.obolibrary.org/obo/DRON_00082437	898376
+Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 25 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00059559	866465
+24 HR Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 25 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00059558	866461
+Benazepril hydrochloride 10 MG / Hydrochlorothiazide 12.5 MG Oral Tablet [Lotensin HCT 10/12.5]	http://purl.obolibrary.org/obo/DRON_00082435	898366
+Hydrochlorothiazide 12.5 MG / Metoprolol Tartrate 100 MG Extended Release Tablet	http://purl.obolibrary.org/obo/DRON_00059557	866456
+Captopril 25 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035369	197437
+Captopril 25 MG / Hydrochlorothiazide 15 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00035368	197436
+Trichlormethiazide 2 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00037425	204515
+Benazepril hydrochloride 5 MG / Hydrochlorothiazide 6.25 MG Oral Tablet [Lotensin HCT 5/6.25]	http://purl.obolibrary.org/obo/DRON_00082438	898382
+Amiloride Hydrochloride 5 MG / Hydrochlorothiazide 50 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00061754	977883
+Hydrochlorothiazide / Pindolol Oral Tablet	http://purl.obolibrary.org/obo/DRON_00023036	373459
+eprosartan 600 MG / Hydrochlorothiazide 12.5 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00047466	351292
+eprosartan 600 MG / Hydrochlorothiazide 25 MG Oral Tablet	http://purl.obolibrary.org/obo/DRON_00047467	351293
+Guanethidine / Hydrochlorothiazide Oral Tablet	http://purl.obolibrary.org/obo/DRON_00022063	372366
+Chlorthalidone 25 MG Oral Tablet [Hydone Tablet]	http://purl.obolibrary.org/obo/DRON_00080013	831703
+Chlorthalidone 50 MG Oral Tablet [Hydone Tablet]	http://purl.obolibrary.org/obo/DRON_00080012	831701
