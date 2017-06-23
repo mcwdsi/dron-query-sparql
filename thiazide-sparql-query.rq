@@ -1,22 +1,17 @@
 #'drug product' and ('is bearer of' some 'anti-hypertensive function') and (has_proper_part some ('has granular part' some ('is bearer of' some 'thiazide / thiazide like')))
 
-select (?b as ?label) (?a as ?iri) (?c as ?rxcui)
+select (?b as ?label) (?k as ?iri) (?c as ?rxcui)
 
 where {
   
-    # has disposition some anti-hypertensive function
-    ?a rdfs:label ?b . 
-  	?a <http://purl.obolibrary.org/obo/DRON_00010000> ?c . 
-  	?a rdfs:subClassOf* ?k .
-  	?k rdfs:subClassOf ?y .
-  	?k <http://purl.obolibrary.org/obo/DRON_00010000> ?e .
-  	?k rdfs:label ?j .
-   	?k rdfs:subClassOf ?dispositionOf .
-  	?dispositionOf rdf:type owl:Restriction .
-  	?dispositionOf owl:onProperty <http://purl.obolibrary.org/obo/BFO_0000053> .
-  	?dispositionOf owl:someValuesFrom <http://purl.obolibrary.org/obo/DRON_00000034> .
+    ?k rdfs:subClassOf* ?y .
+    ?k <http://purl.obolibrary.org/obo/DRON_00010000> ?c .
+    ?k rdfs:label ?b .
+    ?k rdfs:subClassOf* ?dispositionOf .
+    ?dispositionOf rdf:type owl:Restriction .
+    ?dispositionOf owl:onProperty <http://purl.obolibrary.org/obo/BFO_0000053> .
+    ?dispositionOf owl:someValuesFrom <http://purl.obolibrary.org/obo/DRON_00000034> .
     # has proper part scattered molecular aggregate
-    #?iri rdfs:subClassOf+ ?y .
     ?y rdf:type owl:Restriction .
     ?y owl:onProperty <http://www.obofoundry.org/ro/ro.owl#has_proper_part> .
     ?y owl:someValuesFrom ?x .
